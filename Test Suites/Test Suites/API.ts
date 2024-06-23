@@ -12,20 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>075609b2-a8b6-44a6-a93e-323432e81e49</testSuiteGuid>
    <testCaseLink>
-      <guid>41fe6b02-c5ff-462e-90c9-bfe3e365ef00</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/API01</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>09dce5a0-8372-48a4-9e49-3f1b65e81014</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/1</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>49145312-b4bb-4725-9ea7-b01ed0a917b5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -135,6 +121,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/a8</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0678b465-581b-4393-bec4-a79e446a2465</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/UI</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
