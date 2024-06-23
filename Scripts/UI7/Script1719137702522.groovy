@@ -21,11 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service'), 
+    0)
 
 WebUI.closeBrowser()
-
-response = WS.sendRequest(findTestObject('API/Get user'))
-
-WS.verifyElementPropertyValue(response, 'data.id', 1)
 

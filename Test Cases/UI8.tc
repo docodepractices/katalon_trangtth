@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>2</name>
+   <name>UI8</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>45a0d250-bb25-428d-a525-a766f153e2ac</testCaseGuid>
+   <testCaseGuid>80b8a9c2-abcc-46de-8d99-f6567df57c37</testCaseGuid>
 </TestCaseEntity>

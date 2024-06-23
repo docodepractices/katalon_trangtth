@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>3649d547-8973-429f-8c26-3d19bee0bee6</testSuiteGuid>
    <testCaseLink>
-      <guid>94baa5ea-1fdf-472e-8063-90677a704709</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC01 - Verify page display</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>7422bbb3-aae9-4349-9b94-86ca81e94919</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

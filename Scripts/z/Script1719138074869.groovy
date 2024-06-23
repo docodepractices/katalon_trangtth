@@ -17,14 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service'))
-
-WebUI.closeBrowser()
-
 response = WS.sendRequest(findTestObject('API/Get user'))
 
 WS.verifyElementPropertyValue(response, 'data.id', 1)
